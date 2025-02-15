@@ -1,9 +1,4 @@
 <h1 align="left">Hello, I'm Himanshu Raj Kukreja 👋</h1>
-
-<p align="left">
-  I'm an aspiring software developer passionate about building digital solutions that make a real-world impact. I’m constantly learning and evolving with each project.
-</p>
-
 <h2 align="left">About Me</h2>
 
 <p align="left">
