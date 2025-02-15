@@ -2,7 +2,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  I'm a student with a deep passion for software development 💻. I'm focused on mastering the core principles and enhancing my abilities through hands-on projects 🔧. With a keen interest in emerging technologies 🚀, I'm dedicated to building a strong foundation and advancing my skills through real-world experience.
+  I'm a student with a deep passion for software development 👩‍💻. I'm focused on mastering the core principles and enhancing my abilities through hands-on projects 🧰. With a keen interest in emerging technologies 🌟, I'm dedicated to building a strong foundation and advancing my skills through real-world experience.
 </p>
 
 <h2 align="left">Tech Stack</h2>
